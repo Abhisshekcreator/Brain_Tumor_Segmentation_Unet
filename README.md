@@ -26,8 +26,8 @@ The model is developed and validated using the **BraTS 2020 Dataset (Training + 
 | **Input Modalities**   | 4 sequences per patient (FLAIR, T1, T1ce, T2) |
 | **Voxel Shape (Input)**| 240 × 240 × 155                            |
 | **Voxel Size**         | 1.0 × 1.0 × 1.0 mm³                        |
-| **Data Type (Raw)**    | uint8 (Standard 96³ patches used for training) |
-| **Data Type (Processed)** | float64 (Standardized for intensity normalization) |
+| **Data Type (Raw)**    | uint8                                      |
+| **Data Type (Processed)** | float64                                 |
 
 ### 2. Label Mapping and Segmentation Targets
 
@@ -76,6 +76,13 @@ A core component of this research was evaluating how the **Input Patch Dimension
 - **Superior Accuracy:** The **96 × 96 × 96** patch size achieved a significantly higher Mean Dice Score (0.8171), proving to be the optimal hyperparameter for this task.
 - **Class Imbalance Mitigation:** Increasing the patch size to 128³ diluted the density of the tumor Region of Interest (ROI) relative to the background, worsening the class imbalance and hindering the model's ability to extract specific features.
 - **Efficiency:** The 96³ configuration provided faster inference times and superior model generalization.
+
+---
+
+###  Image Results
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/540dea03-2557-4cdf-bd53-e7d420c0bc12" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/62376a34-ae98-4f9d-9397-1d7658b9a188" />
 
 ---
 
