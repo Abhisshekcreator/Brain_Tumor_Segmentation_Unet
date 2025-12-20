@@ -6,7 +6,7 @@ This repository provides a professional implementation of a 3D medical image seg
 
 ## 🏗 Overall Workflow
 
-*(Insert your `overall_workflow.png` here)*
+<img width="1532" height="442" alt="Image" src="https://github.com/user-attachments/assets/4950d917-e475-40b9-8971-b3e29b255ba1" />
 
 ---
 
@@ -51,7 +51,7 @@ The original BraTS labels are re-organized into three nested sub-regions for cli
 
 The architecture utilizes a 3D U-Net with batch normalization and residual units to capture high-resolution features and spatial context.
 
-*(Insert your `unet_architecture.png` here)*
+<img width="1623" height="672" alt="Image" src="https://github.com/user-attachments/assets/149d7cbe-b743-482f-9868-11bba81520c6" />
 
 ---
 
