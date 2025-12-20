@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+model_result/
+wandb/
+
+Thumbs.db
